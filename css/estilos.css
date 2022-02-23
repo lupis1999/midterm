@@ -1,0 +1,27 @@
+body {
+  background-color: lightblue;
+  font-family: Courier, "Lucida Console", monospace;
+}
+
+.card {
+	display: inline-block;
+	background-color: white;
+	text-align: center;
+	padding: 20px;
+	border-radius: 3px;
+}
+
+.justify-center {
+	justify-content: center;
+}
+
+.align-center {
+	align-content: center;
+}
+
+.w100p{
+	width: 100%;
+}
+.w400{
+	width: 300px!important;
+}
