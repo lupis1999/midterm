@@ -19,7 +19,7 @@ if(!$consulta){
 if($user = mysqli_fetch_assoc($consulta)) {
 	header('Location: home.php');
 } else {
-	echo "Credenciales incorrectas";
+	echo "<center>Credenciales incorrectas</center>";
 }
 
 ?>
