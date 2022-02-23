@@ -11,7 +11,6 @@
 <body>
 	<center>
 		<div class="mt-5 mb-3 fs-5">Bienvenido</div>
-	
 	</center>
 </body>
 </html>

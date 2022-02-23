@@ -14,7 +14,7 @@
 		<div class="col-12 text-center mt-5 fs-3">LOG IN</div>
 	</div>
 	<div class="row justify-center w100p">
-		<div class="col-4 text-center card mt-5">
+		<div class="col-4 card mt-5">
 			<form method="post" action="validate.php">
 				<div class="mb-3">
 					<label for="exampleInputEmail1" class="form-label">Usuario</label>
@@ -26,6 +26,11 @@
 				</div>
 				<button type="submit" class="btn btn-primary">Log in</button>
 			</form>
+			<div class="row mt-3">
+				<div class="col-4">
+					<a href="registrarseForm.php">Registrarse</a>
+				</div>
+			</div>
 		</div>
 	</div>
 </body>
